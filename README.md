@@ -1,6 +1,6 @@
-# sqflite_test
+# Sqflite Notes app
 
-A new Flutter project.
+Sqflite notes app , you can add , delete , edit notes
 
 ## Getting Started
 
